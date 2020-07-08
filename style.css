@@ -1,0 +1,46 @@
+.disign{
+    background-color: green;
+    border-radius: 20px;
+    
+}
+.orange-bg{
+    background-color: rgb(215, 245, 215);
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+}
+.Name{
+    box-shadow: 10px 10px 15px grey;
+}
+h3{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.navbar-brand img{
+    height: 60px;
+}
+.Man img{
+    height: 300px;
+    width: 250px;
+}
+.course{
+    background-color: rgb(53, 44, 44);
+    height: 250px;
+    width: 100%;
+    margin-top: 20px;
+    color: white;
+}
+.footer{
+    text-align: center;
+    margin-left: 450px;
+}
+
+.calen img{
+    height: 20px;
+}
